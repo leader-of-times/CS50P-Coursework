@@ -1,0 +1,5 @@
+m=int(input("m: "))
+c1=3*pow(10,8)
+c2=3*pow(10,8)
+e=m*(c1*c2)
+print("E: ",e)
